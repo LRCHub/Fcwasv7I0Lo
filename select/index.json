@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Restart?",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-03-05T00:51:48.600601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World Restart",
+      "artist": "Kindness feat. Kelela & Ade",
+      "has_synced": true,
+      "path": "select/01_World_Restart_Kindness_feat._Kelela_&_Ade.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Restart",
+      "artist": "Sam Smith",
+      "has_synced": true,
+      "path": "select/02_Restart_Sam_Smith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RIVA (Restart the Game)",
+      "artist": "Klingande feat. Broken Back",
+      "has_synced": true,
+      "path": "select/03_RIVA_(Restart_the_Game)_Klingande_feat._Broken_Back.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Restart",
+      "artist": "Jala Brat feat. Buba Corelli",
+      "has_synced": true,
+      "path": "select/04_Restart_Jala_Brat_feat._Buba_Corelli.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RIVA (Restart the Game) - Radio Edit",
+      "artist": "Klingande feat. Broken Back",
+      "has_synced": true,
+      "path": "select/05_RIVA_(Restart_the_Game)_-_Radio_Edit_Klingande_feat._Broken_Back.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RIVA (Restart the Game) (Radio Edit)",
+      "artist": "Klingande, Broken Back",
+      "has_synced": true,
+      "path": "select/06_RIVA_(Restart_the_Game)_(Radio_Edit)_Klingande,_Broken_Back.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Riva (Restart The Game) - Radio Edit",
+      "artist": "Klingande feat. Broken Back",
+      "has_synced": false,
+      "path": "select/07_Riva_(Restart_The_Game)_-_Radio_Edit_Klingande_feat._Broken_Back.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Restart",
+      "artist": "BNQT",
+      "has_synced": true,
+      "path": "select/08_Restart_BNQT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Restart (Bonus Track)",
+      "artist": "Sam Smith",
+      "has_synced": true,
+      "path": "select/09_Restart_(Bonus_Track)_Sam_Smith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Restart",
+      "artist": "Sam Smith",
+      "has_synced": true,
+      "path": "select/10_Restart_Sam_Smith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Restart?",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_Restart_レトロリロン.txt"
+    }
+  ]
+}
